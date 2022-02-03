@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Danilo Perez
+### Me chamo Danilo 
+
+Atuamente trabalho na empresa Pull Up Tech como Desenvolvedor JR!
+
+Uso esse GitHub apenas para meu portifolio e estudos! 
+
+Minha area de atuação e front-end atuamente focado em VUE, se quiser me passar algum projeto para criação e estudo, por favor não perca tempo! =D 
+dap4perez@gmail.com
 
 <div style="display: flex;">
   <img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap4ever&layout=compact&hide=html,css&exclude_repo=LoveClone" />
