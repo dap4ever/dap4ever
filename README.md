@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **dap4ever/dap4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Danilo Perez
+
+<div style="display: flex;">
+  <img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap4ever&layout=compact&hide=html,css&exclude_repo=LoveClone" />
+  <img style="width: 59%;" src="https://github-readme-stats.vercel.app/api?username=dap4ever"/>
+</div>
