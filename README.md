@@ -27,7 +27,16 @@ Uso esse GitHub apenas para meu portifolio e estudos!
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
 <div style="display: flex;">
   <img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap4ever&layout=compact&hide=html,css&exclude_repo=LoveClone" />
   <img style="width: 59%;" src="https://github-readme-stats.vercel.app/api?username=dap4ever"/>
 </div>
+
+
