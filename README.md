@@ -11,7 +11,7 @@ Uso esse GitHub apenas para meu portifolio e estudos!
 </p>
 
 <p align="left">
-  <a href=" https://mail.google.com/mail/u/dap4perez@gmail.com" alt="Gmail">
+  <a href="mailto:dap4perez@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dap4perez@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/danilo-alves-perez/" alt="Linkedin">
