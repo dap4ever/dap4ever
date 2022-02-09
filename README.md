@@ -33,6 +33,34 @@ Uso esse GitHub apenas para meu portifolio e estudos!
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  
+  <p align="center">
+  <a href="https://github.com/dap4ever">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=dap4ever&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/dap4ever">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap4ever&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/dap4ever">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=dap4ever&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
 
 <div style="display: flex;">
   <img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap4ever&layout=compact&hide=html,css&exclude_repo=LoveClone" />
