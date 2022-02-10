@@ -10,7 +10,7 @@ Uso esse GitHub apenas para meu portifolio e estudos!
   💌 Minha area de atuação é front-end, atualmente focado em VUE, se quiser me passar algum projeto para criação e estudo, por favor não perca tempo! =D  ⤵️
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:dap4perez@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dap4perez@gmail.com" /></a>
 
@@ -20,11 +20,7 @@ Uso esse GitHub apenas para meu portifolio e estudos!
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511944516772" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5511944516772"/></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  
 </p>  
 
 **Ferramentas de Desenvolvimento**
