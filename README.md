@@ -8,6 +8,7 @@ Uso esse GitHub apenas para meu portifolio e estudos!
 
 <p align="left">
   Estudante Analise e desenvolvimento de sistemas, Vue, CSS, Javascript, HTML5.
+  
   💌 Minha area de atuação é front-end, atualmente focado em VUE, se quiser me passar algum projeto para criação e estudo, por favor não perca tempo! =D  ⤵️
 </p>
 
@@ -26,10 +27,10 @@ Uso esse GitHub apenas para meu portifolio e estudos!
 <p align="center"> 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=align=center-flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=align=center-flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=align=center-flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=align=center-flat&logo=adobe-xd&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=align=centerflat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=align=centerflat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=align=centerflat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=align=centerflat&logo=adobe-xd&logoColor=007ACC)
  </p> 
   <p align="center">
   <a href="https://github.com/dap4ever">
