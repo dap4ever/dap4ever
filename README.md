@@ -9,7 +9,7 @@ Uso esse GitHub apenas para meu portifolio e estudos!
 <p align="left">
   Estudante de Analise e desenvolvimento de sistemas na UNOPAR. 
   
-  💌 Minha area de atuação é front-end, HTML5, CSS, Javascript, atualmente focado em VUE, se quiser me passar algum projeto para criação e estudo, por favor não perca tempo! =D  ⤵️
+  💌 Minha area de atuação é front-end, HTML5, CSS, Javascript, atualmente focado em React e VUE, se quiser me passar algum projeto para criação e estudo, por favor não perca tempo! =D  ⤵️
   <p align="center">
   <a href="mailto:dap4perez@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dap4perez@gmail.com" /></a>
