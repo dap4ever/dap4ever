@@ -31,24 +31,18 @@ Uso esse GitHub apenas para meu portifolio e estudos!
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
- </p> 
-  <p align="center">
-  <a href="https://github.com/dap4ever">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=dap4ever&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/dap4ever">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dap4ever&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
 
-</p>
+ <details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+  <a href="https://github.com/dap4ever">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dap4ever&theme=nord&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dap4ever&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dap4ever&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+</details>
+
+
 
 
 <p align="center">
