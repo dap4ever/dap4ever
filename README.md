@@ -2,9 +2,8 @@
 
 ### Me chamo Danilo 
 
-Atualmente trabalho na empresa Pull Up Tech como Desenvolvedor JR!
+Atualmente trabalho na empresa Hive como Desenvolvedor e Gestor!
 
-Uso esse GitHub apenas para meu portifolio e estudos! 
 
 <p align="left">
   Estudante de Analise e desenvolvimento de sistemas na UNOPAR. 
@@ -22,14 +21,31 @@ Uso esse GitHub apenas para meu portifolio e estudos!
 </p>
 </p>
 
+<details>
+  <summary><b>💻 Tech stack</b></summary>
+  
+  ## 🤿 Tecnologias:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Sass
 
-<p align="center"> 
-**Ferramentas de Desenvolvimento**
+  ## 🤓 Estudando:
+  - ReactJS
+  - TailwindCSS
+  - MySQL
+  - Node.js (de vez em nunca)
+  - PHP
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  ## 🔬 Ferramentas:
+  - Git
+  - Figma ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  - Photoshop  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  - Trello ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  - Visual Studio Code ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+</details>
+
   
 <details>
   <summary><b>Trophy</b></summary>
