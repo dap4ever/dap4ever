@@ -9,16 +9,22 @@ Atualmente trabalho na empresa Hive como Desenvolvedor e Gestor!
   Estudante de Analise e desenvolvimento de sistemas na UNOPAR. 
   
   💌 Minha area de atuação é front-end, HTML5, CSS, Javascript, atualmente focado em React e VUE, se quiser me passar algum projeto para criação e estudo, por favor não perca tempo! =D  ⤵️
+  
+  Veja meu portifólio: https://portifolio-danilo-perez.netlify.app/#home
+  
   <p align="center">
-  <a href="mailto:dap4perez@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dap4perez@gmail.com" /></a>
+      <a href="mailto:dap4perez@gmail.com" alt="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dap4perez@gmail.com" />
+      </a>
 
-  <a href="https://www.linkedin.com/in/danilo-alves-perez/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-alves-perez/" /></a>
+      <a href="https://www.linkedin.com/in/danilo-alves-perez/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-alves-perez/"/>
+      </a>
 
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5545988419993" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5545988419993"/></a>
-</p>
+      <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5545988419993" alt="WhatsApp">
+        <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=http://api.whatsapp.com/send?1=pt_BR&phone=5545988419993"/>
+      </a>
+  </p>
 </p>
 
 <details>
