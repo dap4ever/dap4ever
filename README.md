@@ -18,7 +18,7 @@ Atualmente trabalho na empresa Hive como Desenvolvedor e Gestor!
       </a>
 
       <a href="https://www.linkedin.com/in/danilo-alves-perez/" alt="Linkedin">
-        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-alves-perez/"/>
+        <img align="left" alt="DAP LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/748FAC" title="Perfil no LinkedIn" />
       </a>
 
       <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5545988419993" alt="WhatsApp">
