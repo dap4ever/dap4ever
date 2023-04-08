@@ -31,29 +31,33 @@ Uso esse GitHub apenas para meu portifolio e estudos!
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   
-
- <details>
+<details>
+  <summary><b>Trophy</b></summary>
+  <p align="center">
+    <a href="https://github.com/dap4ever">
+      <img
+        align="center"
+        src="https://github-profile-trophy.vercel.app/?username=dap4ever&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      />
+    </a>
+  </p>
+</details>
+  
+  
+<details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
   <a href="https://github.com/dap4ever">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dap4ever&theme=nord&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dap4ever&theme=nord&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dap4ever&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dap4ever&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
-</a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dap4ever&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
 </details>
 
 
 
 
-<p align="center">
-  <a href="https://github.com/dap4ever">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=dap4ever&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
+
 
 
 
