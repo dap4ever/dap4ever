@@ -30,6 +30,7 @@ Uso esse GitHub apenas para meu portifolio e estudos!
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  
  </p> 
   <p align="center">
   <a href="https://github.com/dap4ever">
