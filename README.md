@@ -45,10 +45,10 @@ Atualmente trabalho na empresa Hive como Desenvolvedor e Gestor!
 
   ## 🔬 Ferramentas:
   - Git
-  - Figma ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  - Photoshop  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-  - Trello ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  - Visual Studio Code ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  - Figma  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  - Photoshop   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  - Trello  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  - Visual Studio Code  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 </details>
 
@@ -65,7 +65,7 @@ Atualmente trabalho na empresa Hive como Desenvolvedor e Gestor!
   </p>
 </details>
   
-  
+ 
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
