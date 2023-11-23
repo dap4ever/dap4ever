@@ -2,7 +2,7 @@
 
 ### Me chamo Danilo 
 
-Atualmente trabalho na empresa Hive como Desenvolvedor e Gestor!
+Atualmente trabalho na empresa Agência F2F como Desenvolvedor Web!
 
 
 ## 🌐 Socials:
